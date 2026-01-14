@@ -41,7 +41,7 @@ export const profile: ProfileData = {
   avatar: "/avatar.png",
   name: "Dildora Niyozova",
   subtitles: {
-    uz: "Ezgulik kuychi, bizning kanallarimizga obuna boling!",
+    uz: "Ezgulik kuychisi, bizning kanallarimizga obuna bo‘ling!",
     ru: "Певица, подписывайтесь на наши каналы!",
     en: "Singer, subscribe to our channels!",
   },
