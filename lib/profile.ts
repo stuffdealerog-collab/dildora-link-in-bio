@@ -41,9 +41,9 @@ export const profile: ProfileData = {
   avatar: "/avatar.png",
   name: "Dildora Niyozova",
   subtitles: {
-    uz: "Ezgulik kuychisi, bizning kanallarimizga obuna bo‘ling!",
-    ru: "Певица, подписывайтесь на наши каналы!",
-    en: "Singer, subscribe to our channels!",
+    uz: "Assalomu Aleykum! Dildora Niyozovaning barcha ijtimoiy tarmoqlariga shu yerdan kirishingiz mumkin✅",
+    ru: "Assalomu Aleykum! Dildora Niyozovaning barcha ijtimoiy tarmoqlariga shu yerdan kirishingiz mumkin✅",
+    en: "Assalomu Aleykum! Dildora Niyozovaning barcha ijtimoiy tarmoqlariga shu yerdan kirishingiz mumkin✅",
   },
   featured: {
     url: "https://youtube.com/@dildoraniyozova_?si=PrURsLZvwxsJO3VG",
